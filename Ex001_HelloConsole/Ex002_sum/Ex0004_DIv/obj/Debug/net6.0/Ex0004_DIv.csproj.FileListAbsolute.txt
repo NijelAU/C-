@@ -1,0 +1,15 @@
+/Users/aleksandrburmagin/Desktop/Exampels/Ex001_HelloConsole/Ex002_sum/Ex0004_DIv/bin/Debug/net6.0/Ex0004_DIv
+/Users/aleksandrburmagin/Desktop/Exampels/Ex001_HelloConsole/Ex002_sum/Ex0004_DIv/bin/Debug/net6.0/Ex0004_DIv.deps.json
+/Users/aleksandrburmagin/Desktop/Exampels/Ex001_HelloConsole/Ex002_sum/Ex0004_DIv/bin/Debug/net6.0/Ex0004_DIv.runtimeconfig.json
+/Users/aleksandrburmagin/Desktop/Exampels/Ex001_HelloConsole/Ex002_sum/Ex0004_DIv/bin/Debug/net6.0/Ex0004_DIv.dll
+/Users/aleksandrburmagin/Desktop/Exampels/Ex001_HelloConsole/Ex002_sum/Ex0004_DIv/bin/Debug/net6.0/Ex0004_DIv.pdb
+/Users/aleksandrburmagin/Desktop/Exampels/Ex001_HelloConsole/Ex002_sum/Ex0004_DIv/obj/Debug/net6.0/Ex0004_DIv.csproj.AssemblyReference.cache
+/Users/aleksandrburmagin/Desktop/Exampels/Ex001_HelloConsole/Ex002_sum/Ex0004_DIv/obj/Debug/net6.0/Ex0004_DIv.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrburmagin/Desktop/Exampels/Ex001_HelloConsole/Ex002_sum/Ex0004_DIv/obj/Debug/net6.0/Ex0004_DIv.AssemblyInfoInputs.cache
+/Users/aleksandrburmagin/Desktop/Exampels/Ex001_HelloConsole/Ex002_sum/Ex0004_DIv/obj/Debug/net6.0/Ex0004_DIv.AssemblyInfo.cs
+/Users/aleksandrburmagin/Desktop/Exampels/Ex001_HelloConsole/Ex002_sum/Ex0004_DIv/obj/Debug/net6.0/Ex0004_DIv.csproj.CoreCompileInputs.cache
+/Users/aleksandrburmagin/Desktop/Exampels/Ex001_HelloConsole/Ex002_sum/Ex0004_DIv/obj/Debug/net6.0/Ex0004_DIv.dll
+/Users/aleksandrburmagin/Desktop/Exampels/Ex001_HelloConsole/Ex002_sum/Ex0004_DIv/obj/Debug/net6.0/refint/Ex0004_DIv.dll
+/Users/aleksandrburmagin/Desktop/Exampels/Ex001_HelloConsole/Ex002_sum/Ex0004_DIv/obj/Debug/net6.0/Ex0004_DIv.pdb
+/Users/aleksandrburmagin/Desktop/Exampels/Ex001_HelloConsole/Ex002_sum/Ex0004_DIv/obj/Debug/net6.0/Ex0004_DIv.genruntimeconfig.cache
+/Users/aleksandrburmagin/Desktop/Exampels/Ex001_HelloConsole/Ex002_sum/Ex0004_DIv/obj/Debug/net6.0/ref/Ex0004_DIv.dll
