@@ -1,0 +1,15 @@
+/Users/aleksandrburmagin/Desktop/Exampels/Ex001_HelloConsole/Ex002_sum/bin/Debug/net6.0/Ex002_sum
+/Users/aleksandrburmagin/Desktop/Exampels/Ex001_HelloConsole/Ex002_sum/bin/Debug/net6.0/Ex002_sum.deps.json
+/Users/aleksandrburmagin/Desktop/Exampels/Ex001_HelloConsole/Ex002_sum/bin/Debug/net6.0/Ex002_sum.runtimeconfig.json
+/Users/aleksandrburmagin/Desktop/Exampels/Ex001_HelloConsole/Ex002_sum/bin/Debug/net6.0/Ex002_sum.dll
+/Users/aleksandrburmagin/Desktop/Exampels/Ex001_HelloConsole/Ex002_sum/bin/Debug/net6.0/Ex002_sum.pdb
+/Users/aleksandrburmagin/Desktop/Exampels/Ex001_HelloConsole/Ex002_sum/obj/Debug/net6.0/Ex002_sum.csproj.AssemblyReference.cache
+/Users/aleksandrburmagin/Desktop/Exampels/Ex001_HelloConsole/Ex002_sum/obj/Debug/net6.0/Ex002_sum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrburmagin/Desktop/Exampels/Ex001_HelloConsole/Ex002_sum/obj/Debug/net6.0/Ex002_sum.AssemblyInfoInputs.cache
+/Users/aleksandrburmagin/Desktop/Exampels/Ex001_HelloConsole/Ex002_sum/obj/Debug/net6.0/Ex002_sum.AssemblyInfo.cs
+/Users/aleksandrburmagin/Desktop/Exampels/Ex001_HelloConsole/Ex002_sum/obj/Debug/net6.0/Ex002_sum.csproj.CoreCompileInputs.cache
+/Users/aleksandrburmagin/Desktop/Exampels/Ex001_HelloConsole/Ex002_sum/obj/Debug/net6.0/Ex002_sum.dll
+/Users/aleksandrburmagin/Desktop/Exampels/Ex001_HelloConsole/Ex002_sum/obj/Debug/net6.0/refint/Ex002_sum.dll
+/Users/aleksandrburmagin/Desktop/Exampels/Ex001_HelloConsole/Ex002_sum/obj/Debug/net6.0/Ex002_sum.pdb
+/Users/aleksandrburmagin/Desktop/Exampels/Ex001_HelloConsole/Ex002_sum/obj/Debug/net6.0/Ex002_sum.genruntimeconfig.cache
+/Users/aleksandrburmagin/Desktop/Exampels/Ex001_HelloConsole/Ex002_sum/obj/Debug/net6.0/ref/Ex002_sum.dll
